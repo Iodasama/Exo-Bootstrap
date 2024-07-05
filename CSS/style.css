@@ -1,0 +1,25 @@
+
+*{ 
+    text-decoration: none;
+}
+
+header { 
+    background-image: url("../imgWWF/tigre.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+
+a { 
+
+    color:rgb(242, 239, 235);
+    text-decoration: none;
+}
+
+.WWF { 
+
+    color:black;
+}
+p { 
+    text-align: justify;
+}
