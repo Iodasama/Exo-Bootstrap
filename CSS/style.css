@@ -1,8 +1,14 @@
 
 *{ 
     text-decoration: none;
+    font-family:'Poppins';
 }
 
+/* h2 { 
+
+    text-align: center；
+}  */
+ 
 header { 
     background-image: url("../imgWWF/tigre.jpg");
     background-repeat: no-repeat;
@@ -22,4 +28,14 @@ a {
 }
 p { 
     text-align: justify;
+}
+
+#controls { 
+    bottom: 22px;
+    left: 0;
+    position: absolute;
+}
+
+img { 
+    position: relative;
 }
